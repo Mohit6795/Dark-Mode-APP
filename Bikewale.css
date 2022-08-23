@@ -310,7 +310,7 @@
     /* border: 1px solid gray; */
     border: 2px solid #f6f6f6;
     height: 360px;
-    width: 242px; 
+    width: 25%; 
     float: left;
     margin-left: 50px;
 
@@ -848,7 +848,6 @@ footer{
     font-family: 'Open Sans',sans-serif,Arial;
     color: #fff;
     font-size: 18px;
-    min-width: 960px;
     position: absolute;
     margin-top: 5px;
     display: block;
